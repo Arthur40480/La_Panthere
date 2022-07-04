@@ -1661,6 +1661,18 @@ mark {
     text-align: center
 }
 
+.introduction {
+    font-size: 28px;
+}
+
+.commentary {
+    font-size: 20px;
+}
+
+.portfolio_title {
+    font-size: 28px;
+}
+
 .text-justify {
     text-align: justify
 }
