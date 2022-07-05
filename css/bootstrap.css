@@ -1661,6 +1661,10 @@ mark {
     text-align: center
 }
 
+.text-mini {
+    font-size: 14px;
+}
+
 .introduction {
     font-size: 28px;
 }
