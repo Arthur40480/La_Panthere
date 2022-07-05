@@ -784,7 +784,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    transform: scale(1.10);
+    opacity: 0.9;
     background: #575757!important;
     color: #FFFFFF!important;
 }
